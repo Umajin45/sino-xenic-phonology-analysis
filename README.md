@@ -1,11 +1,10 @@
 # sino-xenic-phonology-analysis
-This project examines phonological correspondence patterns between Sino-Japanese (On-yomi) and Sino-Vietnamese (Hán Việt) readings using data from the Unihan database.
-sino-xenic-phonology-analysis
 Quantitative analysis of Sino-Japanese and Sino-Vietnamese phonological adaptation using the Unihan database. Utilizing Python and pandas
 
-Overview
-
 This project examines phonological correspondence patterns between Sino-Japanese (On-yomi) and Sino-Vietnamese (Hán Việt) readings using data from the Unihan database.
+sino-xenic-phonology-analysis
+
+Overview
 
 The focus is not on 1-to-1 sound mapping, but on how two distinct linguistic systems adapted Middle Chinese source forms in different ways.
 
